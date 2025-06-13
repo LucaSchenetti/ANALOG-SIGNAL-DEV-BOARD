@@ -35,3 +35,8 @@ Output 4–20 mA or 0–10 V signals to test PLC analog input modules
 Log sensor data over time for calibration or diagnostics
 
 Display real-time signal values and trends on the integrated LCD touchscreen
+
+
+![Top View](https://github.com/user-attachments/assets/fea9b3fe-a197-4ff4-81de-8103db57b5d7)
+
+
