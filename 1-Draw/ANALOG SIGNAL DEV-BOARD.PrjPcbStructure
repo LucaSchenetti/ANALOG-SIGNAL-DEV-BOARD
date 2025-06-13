@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ANALOG-PART.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ANALOG-PART.SchDoc|FileName=COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ANALOG-PART.SchDoc|FileName=PWR-RAIL.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ANALOG-PART.SchDoc|FileName=STM32-MCU.SchDoc|SheetNumber=3
